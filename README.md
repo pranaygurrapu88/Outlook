@@ -9,11 +9,11 @@
 <div>Please make sure you have these libraries installed on your system first before running this code:</div>
 <div>email</div>
 <div>imaplib</div>
-<div>smtplib</div>
+<div>os</div>
 <div>datetime</div>
+<div>xlrd</div>
+<div>pandas<div
 Edit comment in imap_outlook.py file
-
-
 
 - 🔭 I’m currently working on [Read_Emails_from_Outlook and Downloading attachments from Email](https://github.com/pranaygurrapu88/Outlook)
 
